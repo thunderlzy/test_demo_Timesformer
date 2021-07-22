@@ -1,0 +1,2 @@
+checkpoints filter=lfs diff=lfs merge=lfs -text
+checkpoints/TimeSformer_divST_8x32_224_K600.pyth filter=lfs diff=lfs merge=lfs -text
